@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/whsim/static/css/main.8bd7d3ba.css",
+    "main.js": "/whsim/static/js/main.005e3d84.js",
+    "static/media/conveyors.mp4": "/whsim/static/media/conveyors.357ea2af9680dda2d06c.mp4",
+    "static/media/gantry.mp4": "/whsim/static/media/gantry.b9e5a04a44d77ea0f8c2.mp4",
+    "static/media/picking.mp4": "/whsim/static/media/picking.8e2921ec40d0e827c644.mp4",
+    "static/media/stations.mp4": "/whsim/static/media/stations.cb4ac2d353308cc9f2d9.mp4",
+    "static/media/bkgnd9.png": "/whsim/static/media/bkgnd9.0ed0bff8b853e93e8277.png",
+    "static/media/stations.png": "/whsim/static/media/stations.5effce731f2eb8dea7ef.png",
+    "static/media/conveyors.png": "/whsim/static/media/conveyors.4a9b3bcaf507806148a7.png",
+    "static/media/gantry.png": "/whsim/static/media/gantry.1b9a98f68b2a91ef30d5.png",
+    "static/media/picking.png": "/whsim/static/media/picking.29b7ed35304817227fb4.png",
+    "static/media/flt12-md.png": "/whsim/static/media/flt12-md.33c8c15d8d0c3a52d211.png",
+    "static/media/rch12-md.png": "/whsim/static/media/rch12-md.9e12f17bcff25c31e340.png",
+    "static/media/insta.png": "/whsim/static/media/insta.c7323a6ca3c60935aed4.png",
+    "static/media/whats.png": "/whsim/static/media/whats.9bff66bf55047b5cd9b8.png",
+    "static/media/twit.png": "/whsim/static/media/twit.b2a0b1a855bc8bfa0999.png",
+    "static/media/titanium.jpg": "/whsim/static/media/titanium.5b81c1e663ddb8fdbc8e.jpg",
+    "index.html": "/whsim/index.html",
+    "main.8bd7d3ba.css.map": "/whsim/static/css/main.8bd7d3ba.css.map",
+    "main.005e3d84.js.map": "/whsim/static/js/main.005e3d84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bd7d3ba.css",
+    "static/js/main.005e3d84.js"
+  ]
+}
